@@ -1,9 +1,9 @@
 # Hi there 👋🏻 It's me Paranthaman
 
-Aspiring Web Developer and BCA student at Hindustan College of Arts and Science. Passionate about coding and building web projects.
+###Aspiring Web Developer and BCA student at Hindustan College of Arts and Science. Passionate about coding and building web projects.
 
-![This is some broken image](![read image](https://github.com/user-attachments/assets/e454c8b6-9555-4b59-8b85-9524e4e5d2ce)
-)
+![read image](https://github.com/user-attachments/assets/e454c8b6-9555-4b59-8b85-9524e4e5d2ce)
+
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
