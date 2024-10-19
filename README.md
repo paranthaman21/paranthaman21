@@ -5,7 +5,7 @@
 ![read image](https://github.com/user-attachments/assets/e454c8b6-9555-4b59-8b85-9524e4e5d2ce)
                                                
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Python programs
+- 🫱🏼‍🫲🏽 I’m looking to collaborate on Python programs
 - 🧑🏻‍💻 I'm passionate about web development and Python, and I'm excited to explore Java and C++ next.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
