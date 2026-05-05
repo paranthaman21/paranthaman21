@@ -1,30 +1,168 @@
-# Hi there 👋🏻 It's me Paranthaman
+<div align="center">
 
-### Aspiring Web Developer and BCA student at Hindustan College of Arts and Science. Passionate about coding and building web projects.
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Paranthaman%20Venkatesan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Full%20Stack%20in%20Training%20%E2%80%A2%20Open%20to%20Internships&descAlignY=62&descSize=16&descColor=a78bfa&animation=fadeIn" />
 
-![read image](https://github.com/user-attachments/assets/e454c8b6-9555-4b59-8b85-9524e4e5d2ce)
-                                               
-- 🌱 I’m currently learning Django
-- 🫱🏼‍🫲🏽 I’m looking to collaborate on Python programs
-- 🧑🏻‍💻 I'm passionate about web development and Python, and I'm excited to explore Java and C++ next.
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/barath_21_/) [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>](http://t.me/barath_teller_here)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I like to cook😁
-  
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+</div>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<!-- Typing animation -->
+<div align="center">
 
-### Interested in 
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/50/flutter.png" alt="flutter"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/django.png" alt="django"/> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Paranthaman+%F0%9F%91%8B%F0%9F%8F%BB;Frontend+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;Building+the+web+one+component+at+a+time+%F0%9F%9A%80;Currently+seeking+internships+in+Chennai+%2F+Bangalore)](https://git.io/typing-svg)
 
-### 💻 Workspace Spec
-<img width="48" height="48" src="https://img.icons8.com/color/48/dell--v1.png" alt="dell--v1"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/amd-ryzen.png" alt="amd-ryzen"/>
+</div>
 
-[![Paranthaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paranthaman21&bg_color=000000&color=fafafa&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
+<!-- Quick info badges -->
+<div align="center">
+
+![Location](https://img.shields.io/badge/%F0%9F%93%8D_Location-Chennai,_Tamil_Nadu-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e)
+![Status](https://img.shields.io/badge/%F0%9F%92%BC_Status-Open_to_Internships-success?style=for-the-badge&labelColor=302b63&color=16a34a)
+![Degree](https://img.shields.io/badge/%F0%9F%8E%93_Degree-BCA_2024--2027-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+```yaml
+Name        : Paranthaman Venkatesan
+Degree      : BCA @ Hindustan College of Arts & Science (2024-2027)
+Fellowship  : NxtWave CCBP 4.0 — Full Stack Development (2024-2027)
+Experience  : Web Development Intern @ CSC Computer Education (May 2025)
+Location    : Chennai, Tamil Nadu, India
+Target      : Frontend / Full Stack Internship — Chennai (onsite) or Bangalore
+Email       : paranthaman.fullstack@outlook.com
+Portfolio   : portfolio-app-two-ashen.vercel.app
+Status      : Actively applying — available immediately
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark&perline=5" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,mysql&theme=dark&perline=5" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark&perline=5" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Projects
+
+<div align="center">
+
+| Project | Tech Stack | Links |
+|:---:|:---:|:---:|
+| **Project Name 1** <br/> *Short one-line description* | HTML · CSS · JS · React | [![Live](https://img.shields.io/badge/Live-Demo-A78BFA?style=flat-square&logo=vercel)](https://your-link.vercel.app) [![Code](https://img.shields.io/badge/Source-Code-24243e?style=flat-square&logo=github)](https://github.com/paranthaman21/repo-name) |
+| **Project Name 2** <br/> *Short one-line description* | HTML · CSS · JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-A78BFA?style=flat-square&logo=vercel)](https://your-link.vercel.app) [![Code](https://img.shields.io/badge/Source-Code-24243e?style=flat-square&logo=github)](https://github.com/paranthaman21/repo-name) |
+| **Project Name 3** <br/> *Short one-line description* | React · Node.js · SQL | [![Live](https://img.shields.io/badge/Live-Demo-A78BFA?style=flat-square&logo=vercel)](https://your-link.vercel.app) [![Code](https://img.shields.io/badge/Source-Code-24243e?style=flat-square&logo=github)](https://github.com/paranthaman21/repo-name) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paranthaman21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=302b63" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthaman21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=paranthaman21&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paranthaman21/paranthaman21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paranthaman21/paranthaman21/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paranthaman21/paranthaman21/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## Activity Graph
+
+[![Paranthaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paranthaman21&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|:---|:---:|:---:|
+| Building Own Responsive Website | NxtWave | 2024 |
+| Web Development Fundamentals | NxtWave | 2024 |
+| SQL Foundations Certificate | NxtWave | 2024 |
+| Introduction to Databases | NxtWave | 2024 |
+| Programming Foundations with Python | NxtWave | 2024 |
+
+<br/>
+
+**Winner — Paper Presentation** &nbsp;&nbsp;|&nbsp;&nbsp; **Winner — Technical Quiz**
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Experience
+
+**Web Development Intern — CSC Computer Education** &nbsp; `May 2025`
+
+> Built and styled responsive web pages using HTML5 and CSS3. Implemented DOM manipulation and interactivity using JavaScript. Completed structured tasks under mentorship focusing on layout design, cross-browser compatibility, and clean code practices.
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-app-two-ashen.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paranthaman-venkatesan-dev)
+[![Email](https://img.shields.io/badge/Outlook-Email_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:paranthaman.fullstack@outlook.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=paranthaman21&color=7c3aed&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<!-- Animated footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
