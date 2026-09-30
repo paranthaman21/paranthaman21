@@ -1,0 +1,36 @@
+name: Generate ASCII portrait
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - assets/photo.jpg
+      - scripts/generate_portrait.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Cache rembg model
+        uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: u2net-model
+      - name: Install dependencies
+        run: pip install pillow numpy opencv-python-headless rembg onnxruntime
+      - name: Generate portrait SVGs
+        run: python scripts/generate_portrait.py
+      - name: Commit results
+        run: |
+          rm -f assets/portrait-preview.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/portrait-dark.svg assets/portrait-light.svg
+          git diff --staged --quiet || (git commit -m "Update ASCII portrait" && git push)
