@@ -29,6 +29,19 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+<table>
+<tr>
+<td width="380" valign="middle" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+  <img src="assets/portrait-light.svg" width="360" alt="ASCII portrait of Paranthaman Venkatesan">
+</picture>
+
+</td>
+<td valign="middle">
+
 ```yaml
 Name        : Paranthaman Venkatesan
 Degree      : BCA @ Hindustan College of Arts & Science (2024-2027)
@@ -40,6 +53,10 @@ Email       : paranthaman.fullstack@outlook.com
 Portfolio   : portfolio-app-two-ashen.vercel.app
 Status      : Actively applying — available immediately
 ```
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
