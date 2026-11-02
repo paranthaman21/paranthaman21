@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="100%" height="100%" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&amp;family=Open+Sans:wght@500;600&amp;display=swap');
+      
+      .title { font-family: 'Montserrat', system-ui, sans-serif; font-weight: 800; font-size: 15px; fill: #f6ecd9; letter-spacing: -0.01em; }
+      .title-accent { fill: #e91e8c; }
+      .metric-label { font-family: 'Open Sans', system-ui, sans-serif; font-weight: 600; font-size: 12px; fill: #a89380; }
+      .metric-value { font-family: 'Montserrat', system-ui, sans-serif; font-weight: 900; font-size: 24px; fill: #f6ecd9; }
+      .metric-value-accent { fill: #e91e8c; }
+      .lang-name { font-family: 'Montserrat', system-ui, sans-serif; font-weight: 700; font-size: 12px; fill: #f6ecd9; }
+      .lang-pct { font-family: 'Open Sans', system-ui, sans-serif; font-weight: 700; font-size: 11px; fill: #a89380; }
+      .header-title { font-family: 'Montserrat', system-ui, sans-serif; font-weight: 800; font-size: 13px; fill: #f6ecd9; letter-spacing: 0.05em; text-transform: uppercase; }
+
+      @keyframes loadBar1 { 0% { width: 0; } 100% { width: 175px; } }
+      @keyframes loadBar2 { 0% { width: 0; } 100% { width: 115px; } }
+      @keyframes loadBar3 { 0% { width: 0; } 100% { width: 75px; } }
+      @keyframes loadBar4 { 0% { width: 0; } 100% { width: 45px; } }
+
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.85; }
+        50% { opacity: 1; }
+      }
+
+      .bar-anim-1 { animation: loadBar1 2s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+      .bar-anim-2 { animation: loadBar2 2.2s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+      .bar-anim-3 { animation: loadBar3 2.4s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+      .bar-anim-4 { animation: loadBar4 2.6s cubic-bezier(0.4, 0, 0.2, 1) forwards; }
+      .pulse-item { animation: pulseGlow 3s ease-in-out infinite; }
+    </style>
+
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2a9d" />
+      <stop offset="100%" stop-color="#e91e8c" />
+    </linearGradient>
+    <linearGradient id="jsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f7df1e" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+    <linearGradient id="reactGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61dafb" />
+      <stop offset="100%" stop-color="#4f46e5" />
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5fa04e" />
+      <stop offset="100%" stop-color="#0d9488" />
+    </linearGradient>
+    <linearGradient id="dbGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#e91e8c" />
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card Shell -->
+  <rect x="2" y="2" width="876" height="226" rx="18" fill="#140f0c" stroke="#3d2b1f" stroke-width="2" />
+
+  <!-- Card Top Header -->
+  <path d="M 2 20 Q 2 2 20 2 L 860 2 Q 878 2 878 20 L 878 38 L 2 38 Z" fill="#1c1511" />
+  <line x1="2" y1="38" x2="878" y2="38" stroke="#3d2b1f" stroke-width="1.5" />
+  
+  <g transform="translate(20, 15)">
+    <circle cx="6" cy="11" r="5" fill="#e91e8c" />
+    <text x="22" y="15" class="header-title">GitHub Performance &amp; Language Architecture · @paranthaman21</text>
+  </g>
+
+  <!-- Left Column: Metrics Cards (x=24 to x=430) -->
+  <g transform="translate(24, 54)">
+    <!-- Metric 1: Public Repos -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="195" height="72" rx="12" fill="#1f1611" stroke="#3d2b1f" stroke-width="1.2" />
+      <text x="16" y="26" class="metric-label">PUBLIC REPOSITORIES</text>
+      <text x="16" y="58" class="metric-value metric-value-accent">54<tspan font-size="16" font-weight="700">+</tspan></text>
+      <!-- Mini icon -->
+      <circle cx="166" cy="36" r="14" fill="#e91e8c" fill-opacity="0.12" />
+      <path d="M 160 36 L 164 40 L 172 32" stroke="#e91e8c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+
+    <!-- Metric 2: Academic & Coding Rigor -->
+    <g transform="translate(208, 0)">
+      <rect x="0" y="0" width="195" height="72" rx="12" fill="#1f1611" stroke="#3d2b1f" stroke-width="1.2" />
+      <text x="16" y="26" class="metric-label">ACADEMIC AGGREGATE</text>
+      <text x="16" y="58" class="metric-value">~80<tspan font-size="16" font-weight="700">%</tspan></text>
+      <circle cx="166" cy="36" r="14" fill="#10b981" fill-opacity="0.12" />
+      <text x="166" y="41" text-anchor="middle" font-size="14" fill="#10b981" font-weight="900">🎓</text>
+    </g>
+
+    <!-- Metric 3: Production APIs Built -->
+    <g transform="translate(0, 84)">
+      <rect x="0" y="0" width="195" height="72" rx="12" fill="#1f1611" stroke="#3d2b1f" stroke-width="1.2" />
+      <text x="16" y="26" class="metric-label">REST API ENDPOINTS</text>
+      <text x="16" y="58" class="metric-value">11<tspan font-size="15" fill="#a89380" font-weight="600"> / ConnectHub</tspan></text>
+      <circle cx="166" cy="36" r="14" fill="#f97316" fill-opacity="0.12" />
+      <text x="166" y="41" text-anchor="middle" font-size="14" fill="#f97316" font-weight="900">⚡</text>
+    </g>
+
+    <!-- Metric 4: Hackathon / Competition -->
+    <g transform="translate(208, 84)">
+      <rect x="0" y="0" width="195" height="72" rx="12" fill="#1f1611" stroke="#3d2b1f" stroke-width="1.2" />
+      <text x="16" y="26" class="metric-label">BRAIN-CODE 2026</text>
+      <text x="16" y="58" class="metric-value metric-value-accent">1st <tspan font-size="16" font-weight="700">Prize 🏆</tspan></text>
+      <circle cx="166" cy="36" r="14" fill="#f5e03e" fill-opacity="0.12" />
+      <text x="166" y="41" text-anchor="middle" font-size="14" fill="#f5e03e" font-weight="900">🥇</text>
+    </g>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="442" y1="46" x2="442" y2="218" stroke="#3d2b1f" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Right Column: Top Languages & Stacks (x=460 to x=856) -->
+  <g transform="translate(460, 50)">
+    <text x="0" y="16" class="title">Most Used <tspan class="title-accent">Technologies</tspan> &amp; Stacks</text>
+
+    <!-- Language 1: JavaScript & TypeScript -->
+    <g transform="translate(0, 32)">
+      <text x="0" y="12" class="lang-name">JavaScript (ES6+) / Web</text>
+      <text x="390" y="12" text-anchor="end" class="lang-pct">45%</text>
+      <rect x="0" y="18" width="390" height="8" rx="4" fill="#261c16" />
+      <rect class="bar-anim-1" x="0" y="18" width="175" height="8" rx="4" fill="url(#jsGrad)" />
+    </g>
+
+    <!-- Language 2: React & Frontend -->
+    <g transform="translate(0, 68)">
+      <text x="0" y="12" class="lang-name">React.js &amp; Responsive UI</text>
+      <text x="390" y="12" text-anchor="end" class="lang-pct">30%</text>
+      <rect x="0" y="18" width="390" height="8" rx="4" fill="#261c16" />
+      <rect class="bar-anim-2" x="0" y="18" width="115" height="8" rx="4" fill="url(#reactGrad)" />
+    </g>
+
+    <!-- Language 3: Node.js & Express APIs -->
+    <g transform="translate(0, 104)">
+      <text x="0" y="12" class="lang-name">Node.js, Express &amp; REST APIs</text>
+      <text x="390" y="12" text-anchor="end" class="lang-pct">15%</text>
+      <rect x="0" y="18" width="390" height="8" rx="4" fill="#261c16" />
+      <rect class="bar-anim-3" x="0" y="18" width="75" height="8" rx="4" fill="url(#nodeGrad)" />
+    </g>
+
+    <!-- Language 4: Databases (PostgreSQL, SQLite) -->
+    <g transform="translate(0, 140)">
+      <text x="0" y="12" class="lang-name">SQL, PostgreSQL, SQLite, JWT</text>
+      <text x="390" y="12" text-anchor="end" class="lang-pct">10%</text>
+      <rect x="0" y="18" width="390" height="8" rx="4" fill="#261c16" />
+      <rect class="bar-anim-4" x="0" y="18" width="45" height="8" rx="4" fill="url(#dbGrad)" />
+    </g>
+  </g>
+</svg>

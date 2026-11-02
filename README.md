@@ -1,39 +1,47 @@
 <div align="center">
 
-<!-- Hero Banner with Theme-Matching PV. Logo & Subtle Animation -->
+<!-- ========================================== -->
+<!-- 1. WEBSITE HERO BANNER WITH EMBEDDED PHOTO -->
+<!-- ========================================== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-banner-light.svg">
-  <img src="assets/hero-banner-light.svg" width="100%" alt="Paranthaman Venkatesan - Full-Stack Developer">
+  <img src="assets/hero-banner-light.svg" width="100%" alt="Paranthaman Venkatesan - Portfolio Website Hero">
 </picture>
 
-<!-- Dynamic Cycling Typing Line -->
-<a href="https://portfolio-app-two-ashen.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&multiline=false&width=680&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;React.js+%C2%B7+Node.js;Turning+Ideas+into+Scalable+Web+Applications" alt="Typing SVG" />
+<br/>
+
+<!-- ========================================== -->
+<!-- 2. DYNAMIC CYCLING ROLE TYPING ANIMATION   -->
+<!-- ========================================== -->
+<a href="https://portfolio-app-two-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;React.js+%C2%B7+Node.js;Turning+Ideas+into+Scalable+Web+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick Action & Social Badge Row -->
+<!-- ========================================== -->
+<!-- 3. QUICK ACTION & SOCIAL CTAs              -->
+<!-- ========================================== -->
 <p align="center">
   <a href="https://portfolio-app-two-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-e91e8c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0f08" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-e91e8c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0f08" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/paranthaman-venkatesan-dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0f08" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0f08" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/paranthaman21" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0f08" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🐙_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0f08" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:paranthaman2107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paranthaman2107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0f08" alt="Email" />
+    <img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0f08" alt="Email" />
   </a>
   &nbsp;
   <a href="https://portfolio-app-two-ashen.vercel.app/resume.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-View_PDF-e91e8c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a0f08" alt="Resume" />
+    <img src="https://img.shields.io/badge/📄_View_Resume-e91e8c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1a0f08" alt="Resume" />
   </a>
 </p>
 
@@ -50,8 +58,8 @@
 
 > **"Building the future, one endpoint at a time."**
 
-- 🎓 **Final-year BCA student** at **Hindustan College of Arts & Science, Chennai** (graduating 2027), with a consistent **~80% academic aggregate** across semesters and strong fundamentals in Data Structures & Algorithms, DBMS, OOP, and Web Technologies.
-- 💻 **Full-Stack Developer** with hands-on experience designing and implementing responsive interfaces in **React.js** and architecting secure, production-grade REST APIs in **Node.js & Express.js**.
+- 🎓 **Final-year BCA student** at **Hindustan College of Arts & Science, Chennai** (graduating 2027), with a consistent **~80% academic aggregate** across semesters and strong fundamentals in **Data Structures & Algorithms, DBMS, OOP, and Web Technologies**.
+- 💻 **Full-Stack Developer** with hands-on experience designing and implementing modular, responsive interfaces in **React.js** and architecting secure, production-grade REST APIs in **Node.js & Express.js**.
 - 🗄️ Proficient in relational database design (**SQL**, **PostgreSQL**, **SQLite**), user authentication (**JWT**, **bcrypt**), and interactive API documentation (**OpenAPI / Swagger**).
 - 🚀 **Actively seeking Full-Stack Developer, Frontend Developer, or Backend Developer Internship opportunities** (Chennai onsite / hybrid or Bangalore / remote) to ship high-impact code from day one.
 
@@ -174,38 +182,30 @@
   <img src="assets/divider-light.svg" width="100%" alt="Section Divider">
 </picture>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Engineering Metrics
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages Cards with Theme-Matching Hex Colors -->
+<!-- Custom Animated GitHub Metrics & Language Stack Card (100% Reliable, Fast & Responsive) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=paranthaman21&show_icons=true&hide_border=true&bg_color=161b22&title_color=e91e8c&text_color=f6ecd9&icon_color=e91e8c" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=paranthaman21&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=e91e8c&text_color=3d2b1f&icon_color=e91e8c" />
-  <img alt="Paranthaman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paranthaman21&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=e91e8c&text_color=3d2b1f&icon_color=e91e8c" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-metrics-light.svg" />
+  <img alt="GitHub Metrics and Language Distribution" src="assets/github-metrics-light.svg" width="100%" />
 </picture>
 
 <br/>
 
+<!-- Real-time GitHub Streak Stats with exact Portfolio Hex Palette -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthaman21&layout=compact&hide_border=true&bg_color=161b22&title_color=e91e8c&text_color=f6ecd9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthaman21&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=e91e8c&text_color=3d2b1f" />
-  <img alt="Paranthaman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paranthaman21&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=e91e8c&text_color=3d2b1f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=paranthaman21&theme=dark&background=140f0c&border=3d2b1f&stroke=3d2b1f&ring=e91e8c&fire=e91e8c&currStreakNum=f6ecd9&sideNums=f6ecd9&currStreakLabel=e91e8c&sideLabels=a89380&dates=7a6a5a&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=paranthaman21&theme=light&background=fdf6ec&border=e3d0b2&stroke=e3d0b2&ring=e91e8c&fire=e91e8c&currStreakNum=1a0f08&sideNums=1a0f08&currStreakLabel=e91e8c&sideLabels=7a6a5a&dates=a89380&hide_border=false" />
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=paranthaman21&theme=light&background=fdf6ec&border=e3d0b2&stroke=e3d0b2&ring=e91e8c&fire=e91e8c&currStreakNum=1a0f08&sideNums=1a0f08&currStreakLabel=e91e8c&sideLabels=7a6a5a&dates=a89380&hide_border=false" />
 </picture>
 
 <br/>
 
-### 📈 Activity Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paranthaman21&bg_color=120d0a&color=e91e8c&line=e91e8c&point=f6ecd9&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paranthaman21&bg_color=fdf6ec&color=e91e8c&line=e91e8c&point=3d2b1f&area=true&hide_border=true" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=paranthaman21&bg_color=fdf6ec&color=e91e8c&line=e91e8c&point=3d2b1f&area=true&hide_border=true" />
-</picture>
-
-<br/>
-
-### 🐍 Contribution Graph Snake
+<!-- Dynamic Contribution Grid Snake generated daily via GitHub Actions -->
+<h3>🐍 Contribution Activity Graph</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paranthaman21/paranthaman21/output/github-contribution-grid-snake-dark.svg" />
