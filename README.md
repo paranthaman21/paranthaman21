@@ -1,28 +1,30 @@
 <div align="center">
 
-<!-- ========================================== -->
-<!-- 1. WEBSITE HERO BANNER WITH EMBEDDED PHOTO -->
-<!-- ========================================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-banner-light.svg">
-  <img src="assets/hero-banner-light.svg" width="100%" alt="Paranthaman Venkatesan - Portfolio Website Hero">
-</picture>
-
-<br/>
-
-<!-- ========================================== -->
-<!-- 2. DYNAMIC CYCLING ROLE TYPING ANIMATION   -->
-<!-- ========================================== -->
+<!-- ================================================================ -->
+<!-- 1. WEBSITE HERO BANNER (CLICKABLE DIRECTLY TO LIVE PORTFOLIO)    -->
+<!-- ================================================================ -->
 <a href="https://portfolio-app-two-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;React.js+%C2%B7+Node.js;Turning+Ideas+into+Scalable+Web+Applications" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-banner-light.svg">
+    <img src="assets/hero-banner-light.svg" width="100%" alt="Paranthaman Venkatesan - Full-Stack Developer Portfolio (Click to Open)">
+  </picture>
 </a>
 
 <br/>
 
-<!-- ========================================== -->
-<!-- 3. QUICK ACTION & SOCIAL CTAs              -->
-<!-- ========================================== -->
+<!-- ================================================================ -->
+<!-- 2. DYNAMIC CYCLING ROLE TYPING ANIMATION                         -->
+<!-- ================================================================ -->
+<a href="https://portfolio-app-two-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&multiline=false&width=720&lines=Full-Stack+Developer;Frontend+Developer;Backend+Developer;React.js+%C2%B7+Node.js;Turning+Ideas+into+Scalable+Web+Applications" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ================================================================ -->
+<!-- 3. QUICK ACTION & SOCIAL CTAs                                    -->
+<!-- ================================================================ -->
 <p align="center">
   <a href="https://portfolio-app-two-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-e91e8c?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a0f08" alt="Live Portfolio" />
