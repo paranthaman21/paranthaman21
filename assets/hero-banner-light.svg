@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Open+Sans:wght@500;600&amp;display=swap');
+      .brand-logo { font-family: 'Montserrat', system-ui, -apple-system, sans-serif; font-weight: 900; font-size: 34px; fill: #ffffff; letter-spacing: -0.03em; }
+      .lead-text { font-family: 'Montserrat', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 14px; fill: #7a6a5a; text-transform: uppercase; letter-spacing: 0.15em; }
+      .headline { font-family: 'Montserrat', system-ui, -apple-system, sans-serif; font-weight: 900; font-size: 32px; fill: #1a0f08; letter-spacing: -0.02em; }
+      .headline-accent { fill: #e91e8c; }
+      .subline { font-family: 'Open Sans', system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 14px; fill: #3d2b1f; }
+      .pill-text { font-family: 'Montserrat', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 11px; fill: #3d2b1f; letter-spacing: 0.04em; }
+      .status-text { font-family: 'Montserrat', system-ui, -apple-system, sans-serif; font-weight: 800; font-size: 11px; fill: #0d9488; letter-spacing: 0.05em; }
+      
+      @keyframes pulseGlow {
+        0%, 100% { filter: drop-shadow(0 4px 12px rgba(233, 30, 140, 0.25)); }
+        50% { filter: drop-shadow(0 6px 20px rgba(233, 30, 140, 0.45)); }
+      }
+      @keyframes liveBlink {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.4; transform: scale(0.85); }
+      }
+      @keyframes shimmerLine {
+        0% { stroke-dashoffset: 400; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .logo-box { animation: pulseGlow 4s ease-in-out infinite; }
+      .live-dot { animation: liveBlink 2s ease-in-out infinite; transform-origin: 802px 42px; }
+      .accent-rule { stroke-dasharray: 400; animation: shimmerLine 3s ease-out forwards; }
+    </style>
+
+    <linearGradient id="bgGradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdf6ec" />
+      <stop offset="60%" stop-color="#f6ecd9" />
+      <stop offset="100%" stop-color="#eee0c8" />
+    </linearGradient>
+
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e91e8c" />
+      <stop offset="100%" stop-color="#b5156d" />
+    </linearGradient>
+
+    <linearGradient id="lineGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e91e8c" />
+      <stop offset="50%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#e3d0b2" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="876" height="216" rx="20" fill="url(#bgGradLight)" stroke="#e3d0b2" stroke-width="2" />
+
+  <!-- Subtle corner aesthetic accent -->
+  <circle cx="850" cy="30" r="80" fill="#e91e8c" fill-opacity="0.04" />
+  <circle cx="860" cy="190" r="60" fill="#f5e03e" fill-opacity="0.08" />
+
+  <!-- Status pill (top right) -->
+  <g transform="translate(680, 26)">
+    <rect x="0" y="0" width="168" height="28" rx="14" fill="#fdf6ec" stroke="#e3d0b2" stroke-width="1.5" />
+    <circle class="live-dot" cx="16" cy="14" r="5" fill="#0d9488" />
+    <text x="30" y="18" class="status-text">OPEN TO INTERNSHIPS</text>
+  </g>
+
+  <!-- Left Logo Monogram Box ("PV.") -->
+  <g class="logo-box" transform="translate(36, 42)">
+    <rect x="0" y="0" width="76" height="76" rx="18" fill="url(#pinkGrad)" />
+    <!-- Inner subtle border -->
+    <rect x="3" y="3" width="70" height="70" rx="15" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5" />
+    <text x="38" y="52" text-anchor="middle" class="brand-logo">PV.</text>
+  </g>
+
+  <!-- Content Section -->
+  <!-- Lead kicker -->
+  <text x="136" y="58" class="lead-text">Paranthaman Venkatesan</text>
+
+  <!-- Main Headline with Pink Accent -->
+  <text x="136" y="94" class="headline">Turning Ideas into <tspan class="headline-accent">Scalable</tspan> Web Apps</text>
+
+  <!-- Decorative Accent Rule -->
+  <path class="accent-rule" d="M 136 108 L 480 108" stroke="url(#lineGradLight)" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Subtitle Tagline -->
+  <text x="136" y="134" class="subline">Final-year BCA @ Hindustan College of Arts &amp; Science, Chennai · Graduating 2027</text>
+
+  <!-- Role Badges Row -->
+  <g transform="translate(136, 154)">
+    <!-- Full-Stack Pill -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="128" height="28" rx="14" fill="#fdf6ec" stroke="#e91e8c" stroke-width="1.5" />
+      <circle cx="14" cy="14" r="4" fill="#e91e8c" />
+      <text x="26" y="18" class="pill-text">Full-Stack Dev</text>
+    </g>
+
+    <!-- React.js Pill -->
+    <g transform="translate(136, 0)">
+      <rect x="0" y="0" width="94" height="28" rx="14" fill="#fdf6ec" stroke="#e3d0b2" stroke-width="1.5" />
+      <circle cx="14" cy="14" r="4" fill="#4f46e5" />
+      <text x="26" y="18" class="pill-text">React.js</text>
+    </g>
+
+    <!-- Node.js Pill -->
+    <g transform="translate(238, 0)">
+      <rect x="0" y="0" width="94" height="28" rx="14" fill="#fdf6ec" stroke="#e3d0b2" stroke-width="1.5" />
+      <circle cx="14" cy="14" r="4" fill="#0d9488" />
+      <text x="26" y="18" class="pill-text">Node.js</text>
+    </g>
+
+    <!-- REST APIs & SQL Pill -->
+    <g transform="translate(340, 0)">
+      <rect x="0" y="0" width="138" height="28" rx="14" fill="#fdf6ec" stroke="#e3d0b2" stroke-width="1.5" />
+      <circle cx="14" cy="14" r="4" fill="#f97316" />
+      <text x="26" y="18" class="pill-text">REST APIs &amp; SQL</text>
+    </g>
+  </g>
+</svg>
+
